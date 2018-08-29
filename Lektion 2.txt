@@ -21,4 +21,6 @@
 * ran random.randrange(1, 100)
 * print(ran)
 
-* while(random.randrange (1, 100) != 20): # oneliner, loopen kör i oändlighet. **/
+* while(random.randrange (1, 100) != 20): # oneliner, loopen kör i oändlighet. 
+*
+**/
