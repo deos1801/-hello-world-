@@ -1,23 +1,24 @@
-true or true= true
-false or true = true
-true or false = true
-false or false = false
+/*
+* true or true= true
+* false or true = true
+* true or false = true
+* false or false = false
 
-or, not, and opertorer för boolean
+* or, not, and opertorer fÃ¶r boolean
 
-deklarera och definiera en variabel -> x= 30 ( x deklarera, 30 definitionen av variablen
+* deklarera och definiera en variabel -> x= 30 ( x deklarera, 30 definitionen av variablen
 
-random.randrange ( tal från en viss gräns till en annan)
+* random.randrange ( tal frÃ¥n en viss grÃ¤ns till en annan)
 
-random är ett paket, i paketet finns randrange
+* random Ã¤r ett paket, i paketet finns randrange
 
-import random ( importerar paketet)
-ran = random.randrange(1, 100)
-print(ran)
+* import random ( importerar paketet)
+* ran = random.randrange(1, 100)
+* print(ran)
 
-ran=0
-while(ran != 20):
-ran random.randrange(1, 100)
-print(ran)
+* ran=0
+* while(ran != 20):
+* ran random.randrange(1, 100)
+* print(ran)
 
-while(random.randrange (1, 100) != 20): # oneliner, loopen kör i oändlighet.
+* while(random.randrange (1, 100) != 20): # oneliner, loopen kÃ¶r i oÃ¤ndlighet. **/
